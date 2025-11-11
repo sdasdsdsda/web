@@ -199,7 +199,7 @@ st.dataframe(df)
 st.markdown("---")
 
 # --- 9. 섹션 6: Streamlit 기본 기능 (이미지 및 비디오) ---
-st.header("6. Streamlit 기본 기능: 🖼️ 이미지와 🎬 비디오") https://www.youtube.com/watch?v=qrqHlgqNTHo
+st.header("6. Streamlit 기본 기능: 🖼️ 이미지와 🎬 비디오") 
 
 # 컬럼을 사용해 좌우로 배치
 col1, col2 = st.columns(2)
